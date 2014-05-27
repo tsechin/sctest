@@ -6,7 +6,7 @@ import java.util.Iterator;
 /**
  * Created by tsechin on 5/27/14.
  */
-public class ScTestMain {
+public class TestSelectMain {
     private static String readerName = null; // "Lenovo Integrated Smart Card Reader 0";
     private static final byte[] cm_aid = {
             (byte)0xA0, (byte)0x00, (byte)0x00, (byte)0x00,
